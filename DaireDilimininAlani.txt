@@ -15,7 +15,7 @@ public class Main {
 
         System.out.println("Dairenin yaricapini giriniz : ");
         r = scanner.nextInt();
-        System.out.println("Dairenin Diliminin Acisini Giriniz : ");
+        System.out.println("Dairenin Diliminin  Acisini Giriniz : ");
         a= scanner.nextInt();
 
 
