@@ -15,13 +15,13 @@ public class Main {
 
         System.out.println("Dairenin yaricapini giriniz : ");
         r = scanner.nextInt();
-        System.out.println("Dairenin Diliminin  Acisini Giriniz : ");
+        System.out.println("Dairenin Diliminin Acisini Giriniz : ");
         a= scanner.nextInt();
 
 
         double DaireDilimininAlani = (3.14 * (r * r) * a) / 360;
         System.out.println("DaireDilimininAlani = " + DaireDilimininAlani);
-
+        string test="test";
 
     }
 }
