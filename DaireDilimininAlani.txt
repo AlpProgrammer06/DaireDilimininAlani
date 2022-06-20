@@ -21,7 +21,7 @@ public class Main {
 
         double DaireDilimininAlani = (3.14 * (r * r) * a) / 360;
         System.out.println("DaireDilimininAlani = " + DaireDilimininAlani);
-        string test="test";
+        
 
     }
 }
